@@ -1,3 +1,9 @@
+> 注：My Wireshark Lab里存放我自己完成的实验，ustc-zheng-cn里是中科大计网的课件
+
+[中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程](https://www.bilibili.com/video/BV1JV411t7ow)
+
+
+
 # 《计算机网络－自顶向下方法》笔记
 
 《计算机网络－自顶向下方法》编程作业的解答和代码，Wireshark实验的官方文档的翻译。
