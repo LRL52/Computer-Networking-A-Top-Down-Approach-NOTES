@@ -22,7 +22,7 @@ nslookup –option1 –option2 host-to-find dns-server
 
 ### 实验
 
-[阮一峰的DNS原理入门]()
+[阮一峰的DNS原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)
 
 首先清理DNS缓存：
 
